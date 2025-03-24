@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Click Counter</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!--  -->
+  </head>
+  <body>
+    <div class="container">
+      <h1>Click Counter</h1>
+      <p>You clicked <span id="count">0</span> times</p>
+      <span>
+        <button onclick="increaseCount()">Count UP</button>
+        <button onclick="decreaseCount()">Count Down</button>
+      </span>
+      <div>
+        <button onclick="resetCount()">Reset Count</button>
+        <p id="message"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
