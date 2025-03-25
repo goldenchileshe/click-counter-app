@@ -66,6 +66,10 @@ DOM manipulation with JavaScript
 
 - UI/UX design for accessibility and readability
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 👨‍💻 Author
 Golden Chileshe
 📍 Zambia 🇿🇲
