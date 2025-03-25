@@ -1,9 +1,6 @@
 # 🌗 Click Counter App
 
-## 🚀 Live Demo
-
-Check it out live here:  
-🔗 [Click Counter Live](https://goldenchileshe.github.io/click-counter-app/)
+Live Project 👉 [Click Counter Live](https://goldenchileshe.github.io/click-counter-app/) _(opens in new tab)_
 
 A beautiful, interactive click counter web app with a modern design. Built using **HTML**, **CSS**, and **JavaScript**, it features light/dark theme switching, animated UI elements, and a draggable toggle button.
 
