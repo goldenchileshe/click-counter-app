@@ -1,10 +1,3 @@
-✨ Suggested README.md Content
-Create or update your README.md file with this:
-
-markdown
-Copy
-Edit
-
 # 🌗 Click Counter App
 
 A beautiful, interactive click counter web app with a modern design. Built using **HTML**, **CSS**, and **JavaScript**, it features light/dark theme switching, animated UI elements, and a draggable toggle button.
@@ -24,10 +17,7 @@ A beautiful, interactive click counter web app with a modern design. Built using
 
 ## 📸 Preview
 
-> _(Add screenshot here once deployed)_  
-> You can take a screenshot of the app in both light and dark modes.
-
----
+## ![alt text](<Screenshot 1 - Light mood.png>) ![alt text](<Screenshot 1 - Dark mood.png>)
 
 ## 💻 Tech Used
 
